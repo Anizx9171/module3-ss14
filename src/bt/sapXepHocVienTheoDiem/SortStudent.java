@@ -7,9 +7,9 @@ public class SortStudent {
     static List<Student> listStudent = new ArrayList<>();
 
     static {
-        listStudent.add(new Student(3, "duc", 10));
-        listStudent.add(new Student(1, "binh", 8));
-        listStudent.add(new Student(2, "anh", 9));
+        listStudent.add(new Student(3, "dd", 10));
+        listStudent.add(new Student(1, "ahh", 8));
+        listStudent.add(new Student(2, "fff", 9));
     }
 
     public static void bubbleSort() {
