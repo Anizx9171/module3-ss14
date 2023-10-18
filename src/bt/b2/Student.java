@@ -1,4 +1,4 @@
-package bt.sapXepHocVienTheoDiem;
+package bt.b2;
 
 public class Student {
     private int studentId;

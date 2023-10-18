@@ -1,4 +1,4 @@
-package bt.sapXepDoiBongTheoDiemSo;
+package bt.b1;
 
 public class ClubFootBall {
     private int footballTeamId;

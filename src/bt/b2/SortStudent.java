@@ -1,4 +1,4 @@
-package bt.sapXepHocVienTheoDiem;
+package bt.b2;
 
 import java.util.ArrayList;
 import java.util.List;
